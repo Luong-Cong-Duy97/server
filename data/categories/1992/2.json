@@ -1,0 +1,2970 @@
+{
+    "data": [
+        {
+            "id": 41662217,
+            "name": "Dầu gội đầu HÀ THỦ Ô. ngăn ngừa bạc tóc sớm. khích thích mọc tóc. giảm gãy rụng tóc",
+            "category_path": "dau-goi-dau-ha-thu-o-ngan-ngua-bac-toc-som-khich-thich-moc-toc-giam-gay-rung-toc-41662217.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_23/O0prGEHMXNix4IgLz3Sw_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 220000,
+            "default_price_max": 220000,
+            "sale_price_min": 220000,
+            "sale_price_max": 220000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 887072,
+            "sku_user": "dầu gội hà thủ ô",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 887072,
+                "name": "Ngân mĩ phẩm thiên nhiên",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Gia Lai",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41605476,
+            "name": "Viên đặt Ngọc Nữ Tâm Vương",
+            "category_path": "vien-dat-ngoc-nu-tam-vuong-41605476.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_19/AcqjDF5Bmii8VtzfhN69_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 580000,
+            "default_price_max": 580000,
+            "sale_price_min": 580000,
+            "sale_price_max": 580000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 886282,
+            "sku_user": "8938524998089",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 886282,
+                "name": "Ngọc Nữ Tâm Vương 12345",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 39322446,
+            "name": "Viêm xoang Triệu Hoà",
+            "category_path": "viem-xoang-trieu-hoa-39322446.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_05/rFzoYK69JoH4OBcN8V2u_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 80000,
+            "default_price_max": 80000,
+            "sale_price_min": 80000,
+            "sale_price_max": 80000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 868624,
+            "sku_user": "002",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 868624,
+                "name": "Thúy Hằng Shop Dược Mỹ Phẩm",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Hà Nam",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41240255,
+            "name": "Khẩu trang Landmask gói 6 cái hàng chính hãng.",
+            "category_path": "khau-trang-landmask-goi-6-cai-hang-chinh-hang-41240255.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_03/apIUTcop4KFPTEUhb2EV_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 25000,
+            "default_price_max": 25000,
+            "sale_price_min": 25000,
+            "sale_price_max": 25000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 881870,
+            "sku_user": "ktlm",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 881870,
+                "name": "Suzen",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 37498449,
+            "name": "Máy Đo Huyết Áp",
+            "category_path": "may-do-huyet-ap-37498449.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_19/cUzM5jYehi8szXD8O3fI_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 280000,
+            "default_price_max": 280000,
+            "sale_price_min": 240000,
+            "sale_price_max": 240000,
+            "sale_percent": 14,
+            "sold": 4,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 153566,
+            "sku_user": "731",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 153566,
+                "name": "giaredeal",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 37498503,
+            "name": "Máy Đo Đường Huyết",
+            "category_path": "may-do-duong-huyet-37498503.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_19/SfOa1DPBKN0ifC8gOMt4_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 150000,
+            "sale_price_max": 150000,
+            "sale_percent": 16,
+            "sold": 4,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 153566,
+            "sku_user": "732",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 153566,
+                "name": "giaredeal",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 4.5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40889435,
+            "name": "Găng tay Latex Không bột",
+            "category_path": "gang-tay-latex-khong-bot-40889435.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_03/2KmQEjSxp9TXSnGhxuCc_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 100000,
+            "default_price_max": 100000,
+            "sale_price_min": 100000,
+            "sale_price_max": 100000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876679,
+            "sku_user": "Găng tay HQGANO",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876679,
+                "name": "Etnashop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41543365,
+            "name": "Khẩu trang y tế giá xưởng",
+            "category_path": "khau-trang-y-te-gia-xuong-41543365.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_17/IVOPsF6iL10o5FuvZkCg_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 28000,
+            "default_price_max": 28000,
+            "sale_price_min": 28000,
+            "sale_price_max": 28000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 885494,
+            "sku_user": "ktyt",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 885494,
+                "name": "shop nhà Chu",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Hậu Giang",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41361882,
+            "name": "củ gai tươi",
+            "category_path": "cu-gai-tuoi-41361882.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_09/BFMb9sUFytMsV27kpniI_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 883536,
+            "sku_user": "123456789",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 883536,
+                "name": "an thai mẹ bầu",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Hà Nam",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41502040,
+            "name": "Máy đo huyết áp tự động Omron HEM-7121",
+            "category_path": "may-do-huyet-ap-tu-dong-omron-hem-7121-41502040.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_15/uJQDWGwNzgFqQoBGZNFF_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 1120000,
+            "default_price_max": 1120000,
+            "sale_price_min": 1120000,
+            "sale_price_max": 1120000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 881145,
+            "sku_user": "HEM-7121",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 881145,
+                "name": "Dụng Cụ Y Khoa Minh Long",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41491250,
+            "name": "khâu trang y tế",
+            "category_path": "khau-trang-y-te-41491250.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_14/ClFTb6K6z74jy5IX4Ept_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 35000,
+            "default_price_max": 35000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 884841,
+            "sku_user": "TQC",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 884841,
+                "name": "shopthao1995",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41094986,
+            "name": "vecni flour - bảo vệ men răng.chống sâu sún răng",
+            "category_path": "vecni-flour-bao-ve-men-rangchong-sau-sun-rang-41094986.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_25/XTT9C8ZkdmIvjKlYS6eI_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 95000,
+            "default_price_max": 95000,
+            "sale_price_min": 70000,
+            "sale_price_max": 70000,
+            "sale_percent": 26,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 879990,
+            "sku_user": "001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 879990,
+                "name": "tài dương",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 21776363,
+            "name": "Que thử ma túy 4 chân",
+            "category_path": "que-thu-ma-tuy-4-chan-21776363.html",
+            "image": "https://media3.scdn.vn/img3/2019/9_17/SzqmuL_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 28000,
+            "default_price_max": 28000,
+            "sale_price_min": 28000,
+            "sale_price_max": 28000,
+            "sale_percent": 0,
+            "sold": 69,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 526936,
+            "sku_user": "V115",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 526936,
+                "name": "vơchông",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 3,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41289685,
+            "name": "Tinh Dầu Tràm Huế BabyMum",
+            "category_path": "tinh-dau-tram-hue-babymum-41289685.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_06/h9y3CiZ1T27tPMmcfVlT_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 50000,
+            "default_price_max": 50000,
+            "sale_price_min": 50000,
+            "sale_price_max": 50000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 793321,
+            "sku_user": "BabyMum",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 793321,
+                "name": "ZingZingShop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Nam Định",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 38229655,
+            "name": "Cao Dán tri đau nhức Noc Doc Ran",
+            "category_path": "cao-dan-tri-dau-nhuc-noc-doc-ran-38229655.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_11/a0JxeUq78o6LHgWManxH_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 35000,
+            "default_price_max": 35000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 330966,
+            "sku_user": "Anna00101",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 330966,
+                "name": "Anna Mui Ne Shop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Bình Thuận",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 35549461,
+            "name": "Miếng dán / cao dán con cọp",
+            "category_path": "mieng-dan-cao-dan-con-cop-35549461.html",
+            "image": "https://media3.scdn.vn/img4/2020/10_18/x6HXhew7OA3BiGvMTdDQ_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 8000,
+            "default_price_max": 8000,
+            "sale_price_min": 8000,
+            "sale_price_max": 8000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 330966,
+            "sku_user": "Anna0098",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 330966,
+                "name": "Anna Mui Ne Shop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Bình Thuận",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41311021,
+            "name": "Thảm đá nóng Happy Hàn quốc giá tốt nhất",
+            "category_path": "tham-da-nong-happy-han-quoc-gia-tot-nhat-41311021.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_07/VTm2U80BMKGK4e8CrCLA_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 35000000,
+            "default_price_max": 35000000,
+            "sale_price_min": 35000000,
+            "sale_price_max": 35000000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 882916,
+            "sku_user": "Happy Care 1Mx1M9",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 882916,
+                "name": "Thảm Đá Nóng Hàn Quốc 2021",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41292032,
+            "name": "HỘP 50 CÁI KHẨU TRANG 3D MASK CÔNG NGHỆ NHẬT BẢN 4 LỚP CAO CẤP",
+            "category_path": "hop-50-cai-khau-trang-3d-mask-cong-nghe-nhat-ban-4-lop-cao-cap-41292032.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_06/159qZ2n0D9g4TpDR7PDn_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 95000,
+            "default_price_max": 95000,
+            "sale_price_min": 60000,
+            "sale_price_max": 60000,
+            "sale_percent": 36,
+            "sold": 1,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 131720,
+            "sku_user": "3DMASK50CAI",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 131720,
+                "name": "shopphukien237",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 98,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41157721,
+            "name": "Herd detox s line giảm mỡ bụng",
+            "category_path": "herd-detox-s-line-giam-mo-bung-41157721.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_27/sEItdYeUbjiHGQBKfCWs_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 320000,
+            "default_price_max": 320000,
+            "sale_price_min": 320000,
+            "sale_price_max": 320000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 880698,
+            "sku_user": "C33",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 880698,
+                "name": "NguyenThiTinh94",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Bình Dương",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40968000,
+            "name": "khẩu trang kháng khuẩn  y tế 4 lớp",
+            "category_path": "khau-trang-khang-khuan-y-te-4-lop-40968000.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_16/Kn2FSKdxhW8UnIhl2VEc_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 50000,
+            "default_price_max": 50000,
+            "sale_price_min": 50000,
+            "sale_price_max": 50000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 877711,
+            "sku_user": "8938534718011",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 877711,
+                "name": "NPP Năm Giang",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Hải Phòng",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41272977,
+            "name": "khẩu trang giấy kháng khuẩn",
+            "category_path": "khau-trang-giay-khang-khuan-41272977.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_05/abgEQZa4Z4FSlAQBft6C_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 35000,
+            "default_price_max": 35000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 881940,
+            "sku_user": "00001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 881940,
+                "name": "PhilNguyễn",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41004222,
+            "name": "Túi Chườm nóng lạnh Đa Năng Hướng Dương cỡ lớn (37x26x7cm)",
+            "category_path": "tui-chuom-nong-lanh-da-nang-huong-duong-co-lon-37x26x7cm-41004222.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_20/8vfjXPfN0PsnKfWYCiP3_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 105000,
+            "sale_price_max": 105000,
+            "sale_percent": 47,
+            "sold": 19,
+            "has_video": true,
+            "discount_app": 0,
+            "seller_admin_id": 877833,
+            "sku_user": "TC1",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 877833,
+                "name": "Y Tế Xanh",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 7,
+                "star": 4.714285850524902
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": true,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40998368,
+            "name": "Môi trường pha tinh heo",
+            "category_path": "moi-truong-pha-tinh-heo-40998368.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_19/jTAGcTinECGrwXLQMfti_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 18000,
+            "default_price_max": 18000,
+            "sale_price_min": 18000,
+            "sale_price_max": 18000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 878413,
+            "sku_user": "TS2",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 878413,
+                "name": "Môi Trường Hoa Tinh Heo",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Hà Tĩnh",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40988028,
+            "name": "ngọc nữ tâm vương_NNTV",
+            "category_path": "ngoc-nu-tam-vuong-nntv-40988028.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_18/1x8ZivG6ibYXX4NiyDeM_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 550000,
+            "default_price_max": 550000,
+            "sale_price_min": 550000,
+            "sale_price_max": 550000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 875041,
+            "sku_user": "102",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 875041,
+                "name": "kiều thu Dung88",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40988002,
+            "name": "ngọc nữ tâm vương plus_NNTV",
+            "category_path": "ngoc-nu-tam-vuong-plus-nntv-40988002.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_18/yuWG7sJU9RYj3vjJr4K9_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 580000,
+            "default_price_max": 580000,
+            "sale_price_min": 580000,
+            "sale_price_max": 580000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 875041,
+            "sku_user": "101",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 875041,
+                "name": "kiều thu Dung88",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41056592,
+            "name": "2000 Tem chia liều thuốc - Tem dán liều dùng (2000 tem/1 cuộn) mực in chuẩn net, không bay màu",
+            "category_path": "2000-tem-chia-lieu-thuoc-tem-dan-lieu-dung-2000-tem1-cuon-muc-in-chuan-net-khong-bay-mau-41056592.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_23/sItaJrWrH4ACFpVZZxt6_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 65000,
+            "default_price_max": 65000,
+            "sale_price_min": 65000,
+            "sale_price_max": 65000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 879080,
+            "sku_user": "LD1",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 879080,
+                "name": "Xưởng in nhanh 365",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40902210,
+            "name": "khẩu trang y tế 4lớp",
+            "category_path": "khau-trang-y-te-4lop-40902210.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_03/kcmdBOlnTzEYQFs6thS5_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 40000,
+            "default_price_max": 40000,
+            "sale_price_min": 40000,
+            "sale_price_max": 40000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876776,
+            "sku_user": "1101195",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876776,
+                "name": "dat38",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Vũng Tàu",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41133586,
+            "name": "khẩu trang y tế 4 lớp",
+            "category_path": "khau-trang-y-te-4-lop-41133586.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_26/baCIIUuSb46HoNODQP8C_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 40000,
+            "default_price_max": 40000,
+            "sale_price_min": 40000,
+            "sale_price_max": 40000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 880469,
+            "sku_user": "khẩu trang y tế",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 880469,
+                "name": "shop Nhím xinh",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Hưng Yên",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41107031,
+            "name": "Xịt Xoang Thảo Dược Nội Địa Trung Khỏi 100%",
+            "category_path": "xit-xoang-thao-duoc-noi-dia-trung-khoi-100-41107031.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_25/CirvJNnTs3Ll1B4g2mMJ_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 49000,
+            "sale_price_max": 49000,
+            "sale_percent": 75,
+            "sold": 1,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 879622,
+            "sku_user": "SP007",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 879622,
+                "name": "LyLeeStore",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40916559,
+            "name": "Cafe link thảo dược tặng áo quỳnh aka",
+            "category_path": "cafe-link-thao-duoc-tang-ao-quynh-aka-40916559.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_05/KZSMqqBoRcPsDC0umlal_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 300000,
+            "sale_price_max": 300000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876947,
+            "sku_user": "0010357801",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876947,
+                "name": "Ty Tien Ty",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41063349,
+            "name": "Khẩu trang y tế",
+            "category_path": "khau-trang-y-te-41063349.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_23/lE1b4723y9D2tYB2UBQX_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 40000,
+            "default_price_max": 40000,
+            "sale_price_min": 40000,
+            "sale_price_max": 40000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 879512,
+            "sku_user": "DK40K",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 879512,
+                "name": "Đạt Búp KT",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Long An",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41054284,
+            "name": "[KHUYẾN MÃI] Khẩu trang y tế THIÊN THUỶ 4 lớp dày dặn (HỘP 50C)",
+            "category_path": "khuyen-mai-khau-trang-y-te-thien-thuy-4-lop-day-dan-hop-50c-41054284.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_23/9GkXHN30d9TUyco7xQvp_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "sale_percent": 22,
+            "sold": 2,
+            "has_video": true,
+            "discount_app": 0,
+            "seller_admin_id": 878235,
+            "sku_user": "KHẨU TRANG THIÊN THUỶ",
+            "product_type": 0,
+            "like_counter": 5,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 878235,
+                "name": "DƯỢC PHẨM XANH 123",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "Đồng Tháp",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 41063130,
+            "name": "Khẩu trang Duy Quân",
+            "category_path": "khau-trang-duy-quan-41063130.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_23/x0b9btV8AKLFj7QIxNUG_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 35000,
+            "default_price_max": 35000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 879512,
+            "sku_user": "DQ30k",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 879512,
+                "name": "Đạt Búp KT",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Long An",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 38255915,
+            "name": "khẩu trang neomask vc 65 thun qua gáy chính hãng",
+            "category_path": "khau-trang-neomask-vc-65-thun-qua-gay-chinh-hang-38255915.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_12/CxDyYTFRrfMT5NdMb5Hh_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 30000,
+            "default_price_max": 30000,
+            "sale_price_min": 30000,
+            "sale_price_max": 30000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 860824,
+            "sku_user": "123456789",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 860824,
+                "name": "khẩu trang neomask vc 65",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Quảng Nam",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40617951,
+            "name": "Bóng đèn máy xét nghiệm sinh hóa ES200, ES380, ES480",
+            "category_path": "bong-den-may-xet-nghiem-sinh-hoa-es200-es380-es480-40617951.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_25/9VjCldLCfCaAQzOKINSO_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 1950000,
+            "default_price_max": 1950000,
+            "sale_price_min": 1350000,
+            "sale_price_max": 1350000,
+            "sale_percent": 30,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 874864,
+            "sku_user": "APX610WV1",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 874864,
+                "name": "APX SHOP",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41042112,
+            "name": "Miếng dán sâm",
+            "category_path": "mieng-dan-sam-41042112.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_22/jIpLOaqcda519mVEYvKd_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 60000,
+            "default_price_max": 60000,
+            "sale_price_min": 60000,
+            "sale_price_max": 60000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 879076,
+            "sku_user": "002",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 879076,
+                "name": "Phongvuong",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Hải Phòng",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41008637,
+            "name": "Dầu Massage BoDy Hướng Dương",
+            "category_path": "dau-massage-body-huong-duong-41008637.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_30/LN7HNfW8XmwAcVsMPppK_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 130000,
+            "default_price_max": 130000,
+            "sale_price_min": 90000,
+            "sale_price_max": 90000,
+            "sale_percent": 30,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 878518,
+            "sku_user": "DMS02",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 878518,
+                "name": "Thái Bảo sales",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 31397261,
+            "name": "Khẩu trang Unicharm 3D Mask ngăn khói bụi (dành cho người lớn) 5c/ goi",
+            "category_path": "kha-u-trang-unicharm-3d-mask-ngan-kho-i-bu-i-danh-cho-nguoi-lon-5c-goi-31397261.html",
+            "image": "https://media3.scdn.vn/img4/2020/07_09/SfAGewc6zgoRM0MsYrLK_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 19000,
+            "default_price_max": 19000,
+            "sale_price_min": 19000,
+            "sale_price_max": 19000,
+            "sale_percent": 0,
+            "sold": 5,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 434400,
+            "sku_user": "864",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 434400,
+                "name": "shopkhuyenmai_thanhli",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 3,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 13970706,
+            "name": "Dầu Xoa Bóp Thảo Dược Bách Ljnh Tiêu Thống",
+            "category_path": "dau-xoa-bop-thao-duoc-bach-ljnh-tieu-thong-13970706.html",
+            "image": "https://media3.scdn.vn/img3/2019/1_9/VF0KoJ_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 109000,
+            "default_price_max": 109000,
+            "sale_price_min": 99000,
+            "sale_price_max": 99000,
+            "sale_percent": 9,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 2,
+            "seller_admin_id": 392301,
+            "sku_user": "BLTT 01",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 392301,
+                "name": "Tinh Dầu Thiên Nhiên Đất Việt",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 34274237,
+            "name": "Chuông báo động không dây Cacazi cho người già, người khuyết tật..",
+            "category_path": "chuong-bao-dong-khong-day-cacazi-cho-nguoi-gia-nguoi-khuyet-tat-34274237.html",
+            "image": "https://media3.scdn.vn/img4/2020/10_27/iDiFFnPBCcO60smTeUfC_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 157500,
+            "default_price_max": 157500,
+            "sale_price_min": 157500,
+            "sale_price_max": 157500,
+            "sale_percent": 0,
+            "sold": 4,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 406583,
+            "sku_user": "T11084",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 406583,
+                "name": "Làm Chủ Công Nghệ",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 5,
+                "type": 1,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/sz2SGWJWxPBdwfsXoFFY.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 40969652,
+            "name": "CHI TIẾT SẢN PHẨM\\n\\n   Khẩu trang kháng khuẩn cao cấp HỘP 50 CÁI\\nMàu: Xanh / Quy cách hộp: 50 cái\\nKhẩu trang y tế Cao Cấp Kháng Khuẩn 4 lớp \\nThành phần 4 lớp: 3 lớp vải không dệt, 1 lớp GIẤY KHÁNG KHUẨN chống thấm nước, lớp kháng khuẩn này giúp việc l",
+            "category_path": "chi-tiet-san-pham-khau-trang-khang-khuan-cao-cap-hop-50-cai-mau-xanh-quy-cach-hop-50-cai-khau-trang-y-te-cao-cap-khang-khuan-4-lop-thanh-phan-4-lop-3-lop-vai-khong-det-1-lop-giay-khang-khuan-chong-tham-nuoc-lop-khang-khuan-nay-giup-viec-l-40969652.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_16/RRuRJhyvw86qWIl1TA9v_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 25000,
+            "default_price_max": 25000,
+            "sale_price_min": 25000,
+            "sale_price_max": 25000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 855732,
+            "sku_user": "1228",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 855732,
+                "name": "Hải Ngashop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Bắc Giang",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 39124430,
+            "name": "( MUA 4 TẶNG 1 ) Tinh dầu hỗ trợ sâu răng, hôi miệng..",
+            "category_path": "mua-4-tang-1-tinh-dau-ho-tro-sau-rang-hoi-mieng-39124430.html",
+            "image": "https://media3.scdn.vn/img4/2020/04_17/X2aphM6YtGxGlTovk0Pc_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 270000,
+            "default_price_max": 270000,
+            "sale_price_min": 270000,
+            "sale_price_max": 270000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 815484,
+            "sku_user": "140",
+            "product_type": 0,
+            "like_counter": 225,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 815484,
+                "name": "Thắng Nguyễn 8789",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": true,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40947013,
+            "name": "KHẨU TRANG KF94",
+            "category_path": "khau-trang-kf94-40947013.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_06/eiEyCne7KRHFO5RoQZ0G_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 50000,
+            "default_price_max": 50000,
+            "sale_price_min": 50000,
+            "sale_price_max": 50000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 860393,
+            "sku_user": "HÀN QUỐC",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 860393,
+                "name": "KOREA88",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40054263,
+            "name": "mũ phẫu thuật",
+            "category_path": "mu-phau-thuat-40054263.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_15/8SAMWNgbJUbMskcTHE07_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 90000,
+            "default_price_max": 90000,
+            "sale_price_min": 90000,
+            "sale_price_max": 90000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 872476,
+            "sku_user": "002",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 872476,
+                "name": "Thực Phẩm Chức Năng Thái Sơn I",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Tuyên Quang",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40053934,
+            "name": "Máy hút mũi kèm khí dung 2 in 1",
+            "category_path": "may-hut-mui-kem-khi-dung-2-in-1-40053934.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_15/GIUwqC4s64FULM2b4s89_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 782000,
+            "default_price_max": 782000,
+            "sale_price_min": 782000,
+            "sale_price_max": 782000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 872476,
+            "sku_user": "001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 872476,
+                "name": "Thực Phẩm Chức Năng Thái Sơn I",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Tuyên Quang",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 39629249,
+            "name": "Tinh dầu gừng 100% nguyên chất",
+            "category_path": "tinh-dau-gung-100-nguyen-chat-39629249.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_10/JUuReVT2RHwb6TIu76NH_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 180000,
+            "sale_price_max": 180000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 870933,
+            "sku_user": "lacdaxanh",
+            "product_type": 0,
+            "like_counter": 210,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 870933,
+                "name": "Tinh dầu gừng Ginger",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Nghệ An",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 32039350,
+            "name": "FREESHIP_ HỘP 10 KHẨU TRANG KN95 NAM ANH_ ĐƯỢC KIỂM HÀNG",
+            "category_path": "freeship-hop-10-khau-trang-kn95-nam-anh-duoc-kiem-hang-32039350.html",
+            "image": "https://media3.scdn.vn/img4/2020/07_28/digz6O2dehCAxXb7IQMg_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 120000,
+            "default_price_max": 120000,
+            "sale_price_min": 79000,
+            "sale_price_max": 79000,
+            "sale_percent": 34,
+            "sold": 10,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 629540,
+            "sku_user": "KN95",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 629540,
+                "name": "Thời Trang LGV",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 40772621,
+            "name": "Combo 2 chai tinh dầu tràm Huế Chăm Chăm 50ml và treo xe loại cao cấp",
+            "category_path": "combo-2-chai-tinh-da-u-tra-m-hue-cham-cham-50ml-va-treo-xe-loa-i-cao-ca-p-40772621.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_30/3LRp7OXCiT7JvwdtJaMV_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 298000,
+            "default_price_max": 298000,
+            "sale_price_min": 216000,
+            "sale_price_max": 216000,
+            "sale_percent": 27,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876023,
+            "sku_user": "003",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876023,
+                "name": "chamchamshop93",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40757390,
+            "name": "Tinh dầu tràm Chăm Chăm treo xe 10ml",
+            "category_path": "tinh-dau-tram-cham-cham-treo-xe-10ml-40757390.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_29/aExqUm73WmJEHogYZm5N_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 99000,
+            "default_price_max": 99000,
+            "sale_price_min": 68000,
+            "sale_price_max": 68000,
+            "sale_percent": 31,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876023,
+            "sku_user": "002",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876023,
+                "name": "chamchamshop93",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40907517,
+            "name": "khẩu trang y tế",
+            "category_path": "khau-trang-y-te-40907517.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_04/LUCOsvg95z1BzELBgvKh_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 45000,
+            "sale_price_max": 45000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876828,
+            "sku_user": "KT.02",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876828,
+                "name": "Trí Nguyện",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40903912,
+            "name": "khẩu trang kháng khuẩn 4 lớp cao cấp",
+            "category_path": "khau-trang-khang-khuan-4-lop-cao-cap-40903912.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_04/DCsDKptqTAh00QfOl4FJ_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 45000,
+            "sale_price_max": 45000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876828,
+            "sku_user": "KT.01",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876828,
+                "name": "Trí Nguyện",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40209084,
+            "name": "Tinh dầu tràm Tâm Nhiên 50ml",
+            "category_path": "tinh-dau-tram-tam-nhien-50ml-40209084.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_19/mlmYNoujUgBg4iMxQ06x_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 200000,
+            "default_price_max": 200000,
+            "sale_price_min": 200000,
+            "sale_price_max": 200000,
+            "sale_percent": 0,
+            "sold": 6,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 873536,
+            "sku_user": "TG50",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 873536,
+                "name": "Tràm gió xứ Quảng",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40887908,
+            "name": "Khẩu Trang 3D Mask Người Lớn 1 Hộp 10 Cái",
+            "category_path": "khau-trang-3d-mask-nguoi-lon-1-hop-10-cai-40887908.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_02/04MqosRlOwwNyHaNdDCx_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 22000,
+            "default_price_max": 22000,
+            "sale_price_min": 22000,
+            "sale_price_max": 22000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876636,
+            "sku_user": "3DFaceMask",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876636,
+                "name": "Hoàng Hùng156",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40902100,
+            "name": "khẩu trang y tế 4lớp kháng khuẩn",
+            "category_path": "khau-trang-y-te-4lop-khang-khuan-40902100.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_03/1xiHPpb4u786v3F7JuqY_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 45000,
+            "sale_price_max": 45000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876776,
+            "sku_user": "11011",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876776,
+                "name": "dat38",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Vũng Tàu",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40901586,
+            "name": "hộp 50 sản phẩm khẩu trang 4 lớp Vân Anh",
+            "category_path": "hop-50-san-pham-khau-trang-4-lop-van-anh-40901586.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_03/Md7Kf4Jt5GkKnLhpwMwm_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 45000,
+            "sale_price_max": 45000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 806656,
+            "sku_user": "CMYK",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 806656,
+                "name": "Cửa hàng Cường Liên",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Thanh Hóa",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 39229146,
+            "name": "cai thuoc lá",
+            "category_path": "cai-thuoc-la-39229146.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_03/ky6NZnHkhTdfCndppfoW_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 650000,
+            "default_price_max": 650000,
+            "sale_price_min": 650000,
+            "sale_price_max": 650000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 867764,
+            "sku_user": "2456789",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 867764,
+                "name": "hangchinhhangchuan",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "Thái Nguyên",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40885099,
+            "name": "Khẩu Trang Y Tế",
+            "category_path": "khau-trang-y-te-40885099.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_02/LYtR4xY5ohWTmVNswCsg_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 40000,
+            "default_price_max": 40000,
+            "sale_price_min": 40000,
+            "sale_price_max": 40000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 795412,
+            "sku_user": "KTAP001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 795412,
+                "name": "Bác Sỹ Hưng",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Lào Cai",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40796667,
+            "name": "Khẩu trang y tế",
+            "category_path": "khau-trang-y-te-40796667.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_30/6MDfsVhUc7GME5LaYIBK_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 35000,
+            "default_price_max": 35000,
+            "sale_price_min": 35000,
+            "sale_price_max": 35000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 875576,
+            "sku_user": "544",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 875576,
+                "name": "KAIZU SHOP",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40757035,
+            "name": "Tinh dầu tràm Chăm Chăm",
+            "category_path": "tinh-dau-tram-cham-cham-40757035.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_29/DWsnV0KueTe3nhA5wapP_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 199000,
+            "default_price_max": 199000,
+            "sale_price_min": 168000,
+            "sale_price_max": 168000,
+            "sale_percent": 15,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876023,
+            "sku_user": "001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876023,
+                "name": "chamchamshop93",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40859191,
+            "name": "[Chính hãng] Khẩu trang y tế 4 lớp kháng khẩn",
+            "category_path": "chinh-hang-khau-trang-y-te-4-lop-khang-khan-40859191.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_01/5jdHZKShcfrhhN0JfasS_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 80000,
+            "default_price_max": 80000,
+            "sale_price_min": 80000,
+            "sale_price_max": 80000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 795138,
+            "sku_user": "kh0001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 795138,
+                "name": "Phụ kiện đt giá tốt",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        }
+    ],
+    "data_debug": null,
+    "meta_data": {
+        "source_info": {
+            "source_block_id": "listing_products",
+            "source_page_id": "cate1_vasup_desc"
+        },
+        "experiment_id": -5,
+        "special_res": 0,
+        "total_count": 156935,
+        "count_from_es": 0,
+        "total_page": 2616,
+        "belong_tab": "vasup_desc",
+        "current_page": 2,
+        "request_id": "c0175851-d359-4a92-a2d6-09c6877c5135",
+        "ranking_random_values": null,
+        "source_data": "ES",
+        "message": {
+            "not_found": "",
+            "found": ""
+        },
+        "corrected_query": "",
+        "origin_query": ""
+    },
+    "async_data": {
+        "products": {}
+    }
+}

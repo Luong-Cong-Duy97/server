@@ -1,0 +1,2970 @@
+{
+    "data": [
+        {
+            "id": 41255463,
+            "name": "Áo thun nam có cổ tay ngắn được kiểm hàng",
+            "category_path": "ao-thun-nam-co-co-tay-ngan-duoc-kiem-hang-41255463.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_04/YLA23nG8Lf8r4hPGb6cM_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 163302,
+            "default_price_max": 163302,
+            "sale_price_min": 163302,
+            "sale_price_max": 163302,
+            "sale_percent": 0,
+            "sold": 4,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 881599,
+            "sku_user": "aonam01",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 881599,
+                "name": "Tong kho si le sai gon",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 16862368,
+            "name": "Áo đôi tình yêu",
+            "category_path": "ao-doi-tinh-yeu-16862368.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_21/zksONh_simg_de2fe0_250x250_maxb.jpeg",
+            "is_event_frame": false,
+            "default_price_min": 330000,
+            "default_price_max": 330000,
+            "sale_price_min": 330000,
+            "sale_price_max": 330000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 540861,
+            "sku_user": "Áo Đôi",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 540861,
+                "name": "Coffee Đắng Và Mưa",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40965029,
+            "name": "Quần Tây Âu Nam Ikemen  Ống Dáng Ôm Vải Co Giãn Nhẹ QA01",
+            "category_path": "quan-tay-au-nam-ikemen-ong-dang-om-vai-co-gian-nhe-qa01-40965029.html",
+            "image": "https://media3.scdn.vn/img4/2020/06_12/JstB5lS5M4gY2eE7qKzQ_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 139000,
+            "default_price_max": 139000,
+            "sale_price_min": 119000,
+            "sale_price_max": 119000,
+            "sale_percent": 14,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 877595,
+            "sku_user": "5207883990",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 877595,
+                "name": "chuyensiquanau",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41173461,
+            "name": "áo thun tay ngắn",
+            "category_path": "ao-thun-tay-ngan-41173461.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_28/mbTxZSNrT0xMPcNukinr_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 75000,
+            "default_price_max": 75000,
+            "sale_price_min": 75000,
+            "sale_price_max": 75000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 880812,
+            "sku_user": "áo thun tay ngẵn",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 880812,
+                "name": "bán hàng online 03",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41255728,
+            "name": "Áo phông nam cao cấp tay ngắn được kiểm hàng",
+            "category_path": "ao-phong-nam-cao-cap-tay-ngan-duoc-kiem-hang-41255728.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_04/7FrYMFeTSobJ2lmVRCjR_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 163302,
+            "default_price_max": 163302,
+            "sale_price_min": 163302,
+            "sale_price_max": 163302,
+            "sale_percent": 0,
+            "sold": 17,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 881599,
+            "sku_user": "aonam02",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 881599,
+                "name": "Tong kho si le sai gon",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41172439,
+            "name": "Áo thun trơn nam nữ cổ tròn",
+            "category_path": "ao-thun-tron-nam-nu-co-tron-41172439.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_11/UZlhBsH9mOn9L2upFvE7_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 45000,
+            "sale_price_max": 45000,
+            "sale_percent": 0,
+            "sold": 39,
+            "has_video": false,
+            "discount_app": 5,
+            "seller_admin_id": 880633,
+            "sku_user": "011",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 880633,
+                "name": "phongphong0188",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 3,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 7,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41221958,
+            "name": "Áo thun trơn nam nữ",
+            "category_path": "ao-thun-tron-nam-nu-41221958.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_11/IqeRH3P85kjEtzGjy4hF_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 45000,
+            "sale_price_max": 45000,
+            "sale_percent": 0,
+            "sold": 11,
+            "has_video": false,
+            "discount_app": 5,
+            "seller_admin_id": 880633,
+            "sku_user": "013",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 880633,
+                "name": "phongphong0188",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 3,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41222007,
+            "name": "Áo thun trơn",
+            "category_path": "ao-thun-tron-41222007.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_11/tXIiwkOUlPZYoNCHtbod_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 45000,
+            "sale_price_max": 45000,
+            "sale_percent": 0,
+            "sold": 12,
+            "has_video": false,
+            "discount_app": 5,
+            "seller_admin_id": 880633,
+            "sku_user": "014",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 880633,
+                "name": "phongphong0188",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 3,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41197317,
+            "name": "Áo thun trơn nam nữ",
+            "category_path": "ao-thun-tron-nam-nu-41197317.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_11/zCAukF1E7uZVdcayCjWQ_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 26000,
+            "sale_price_max": 33000,
+            "sale_percent": 43,
+            "sold": 42,
+            "has_video": false,
+            "discount_app": 5,
+            "seller_admin_id": 880633,
+            "sku_user": "012",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "flash_sale",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 880633,
+                "name": "phongphong0188",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 3,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 12,
+                "star": 4.916666507720947
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41151472,
+            "name": "Áo thun trơn cổ tròn",
+            "category_path": "ao-thun-tron-co-tron-41151472.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_11/EYN0qpAYtpUPV8UMZs15_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 45000,
+            "default_price_max": 45000,
+            "sale_price_min": 45000,
+            "sale_price_max": 45000,
+            "sale_percent": 0,
+            "sold": 13,
+            "has_video": false,
+            "discount_app": 5,
+            "seller_admin_id": 880633,
+            "sku_user": "010",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 880633,
+                "name": "phongphong0188",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 3,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41221137,
+            "name": "Quần Kaki Baggy Unisex Nam Nữ",
+            "category_path": "quan-kaki-baggy-unisex-nam-nu-41221137.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_02/LLXH0DQH1TbZ5LJaJaV7_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 149000,
+            "default_price_max": 149000,
+            "sale_price_min": 149000,
+            "sale_price_max": 149000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 881418,
+            "sku_user": "QWE234",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 881418,
+                "name": "DreamBoat Store",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Lâm Đồng",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41061727,
+            "name": "quần ngố bò",
+            "category_path": "quan-ngo-bo-41061727.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_23/nJkm3LXlaZg5lPsq0Ncs_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 70000,
+            "default_price_max": 70000,
+            "sale_price_min": 70000,
+            "sale_price_max": 70000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 879463,
+            "sku_user": "112",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 879463,
+                "name": "vũ nhung",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Phú Thọ",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41189784,
+            "name": "Quần ngố nam nữ",
+            "category_path": "quan-ngo-nam-nu-41189784.html",
+            "image": "https://media3.scdn.vn/img4/2021/03_01/8QnKrMufgsggOqWSiuNg_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 100000,
+            "default_price_max": 100000,
+            "sale_price_min": 100000,
+            "sale_price_max": 100000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 880975,
+            "sku_user": "1900",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 880975,
+                "name": "Nghiệp123",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41058321,
+            "name": "áo sơ mi caro nam hàn quốc",
+            "category_path": "ao-so-mi-caro-nam-han-quoc-41058321.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_23/nYMyZdzsZrwS4JSOMdD7_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 199000,
+            "default_price_max": 199000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 866248,
+            "sku_user": "SM102",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 866248,
+                "name": "CIG MOD",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41075141,
+            "name": "áo thun nam cổ bẻ",
+            "category_path": "ao-thun-nam-co-be-41075141.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_24/fMHgnvjCrnLUx0hECIIL_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 146000,
+            "default_price_max": 146000,
+            "sale_price_min": 119000,
+            "sale_price_max": 119000,
+            "sale_percent": 18,
+            "sold": 2,
+            "has_video": true,
+            "discount_app": 0,
+            "seller_admin_id": 93684,
+            "sku_user": "ct16",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 93684,
+                "name": "ÁoKhoácCaoCấp",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 41070313,
+            "name": "áo khoác nam(cực chất",
+            "category_path": "ao-khoac-namcuc-chat-41070313.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_24/Y4TX37nv26yz91AqhQVT_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 150000,
+            "sale_price_max": 150000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 879138,
+            "sku_user": "865",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 879138,
+                "name": "shop mỹ việt",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Bình Dương",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 39718852,
+            "name": "Quần Kaki Nam Đẹp Dáng Hàn Lưng Thun Tiện Dụng Form Slim Fit Cực Đẹp QK045+khẩu trang",
+            "category_path": "quan-kaki-nam-dep-dang-han-lung-thun-tien-dung-form-slim-fit-cuc-dep-qk045-khau-trang-39718852.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_24/kF7E2LmSUSP2S0EePTFh_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 114000,
+            "default_price_max": 174000,
+            "sale_price_min": 114000,
+            "sale_price_max": 174000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": true,
+            "discount_app": 0,
+            "seller_admin_id": 322336,
+            "sku_user": "qk45+khẩu trang",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 322336,
+                "name": "AROTI",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 3,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/6UJO86aQpTH2jUlRCEQ3.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": true,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 41028149,
+            "name": "[Freeship] quần short nam",
+            "category_path": "freeship-quan-short-nam-41028149.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_22/pl3lCPHUQouwilzTjYQ9_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 169000,
+            "default_price_max": 169000,
+            "sale_price_min": 169000,
+            "sale_price_max": 169000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 878977,
+            "sku_user": "thdhf",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 878977,
+                "name": "thoitrangnamshop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Thái Nguyên",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 32705192,
+            "name": "Áo thun Nam ngắn tay thời trang",
+            "category_path": "ao-thun-nam-ngan-tay-thoi-trang-32705192.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_23/MEn6zaOXlvOBGlzO1Glu_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 215000,
+            "default_price_max": 215000,
+            "sale_price_min": 215000,
+            "sale_price_max": 215000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 823543,
+            "sku_user": "ms145",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 823543,
+                "name": "ThoitrangMypham",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 41027358,
+            "name": "áo thun nam DSQ2",
+            "category_path": "ao-thun-nam-dsq2-41027358.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_22/ZT2bumfQSHX40cfJ5v0b_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 80000,
+            "default_price_max": 80000,
+            "sale_price_min": 80000,
+            "sale_price_max": 80000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 878700,
+            "sku_user": "001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 878700,
+                "name": "phượng ớt 99",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Bắc Ninh",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40997006,
+            "name": "quần jean nam",
+            "category_path": "quan-jean-nam-40997006.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_19/S9cmceeMx4UU3EqT4WRa_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 180000,
+            "sale_price_max": 180000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 865039,
+            "sku_user": "106",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 865039,
+                "name": "thoitrangre95",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 31215671,
+            "name": "Áo phông có cổ nam chất thun lạnh",
+            "category_path": "ao-phong-co-co-nam-chat-thun-lanh-31215671.html",
+            "image": "https://media3.scdn.vn/img4/2020/06_30/UknD8Hy9srlI5XcDYVBF_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 145000,
+            "default_price_max": 145000,
+            "sale_price_min": 145000,
+            "sale_price_max": 145000,
+            "sale_percent": 0,
+            "sold": 2,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 804750,
+            "sku_user": "Lovado 01",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 804750,
+                "name": "LOVADO",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Quảng Ninh",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40724830,
+            "name": "Áo PT gym california fitness",
+            "category_path": "ao-pt-gym-california-fitness-40724830.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_28/LfdIn4PI0NQc0fg5vzyh_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 150000,
+            "sale_price_max": 150000,
+            "sale_percent": 0,
+            "sold": 2,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 867040,
+            "sku_user": "CFF0031",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 867040,
+                "name": "Quần lót nam Uniqlo",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40880283,
+            "name": "AO THUN THIET KE CAO CAP SM20001",
+            "category_path": "ao-thun-thiet-ke-cao-cap-sm20001-40880283.html",
+            "image": "https://media3.scdn.vn/img4/2021/02_02/VjMzW5WwkDMu4KPsJnWL_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 95000,
+            "default_price_max": 95000,
+            "sale_price_min": 95000,
+            "sale_price_max": 95000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876567,
+            "sku_user": "SM20001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876567,
+                "name": "kimshop99",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Vĩnh Long",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40798827,
+            "name": "áo thun from rộng thỏ đen và thỏ trắng siêu dễ thương",
+            "category_path": "ao-thun-from-rong-tho-den-va-tho-trang-sieu-de-thuong-40798827.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_30/qFfvxhC8cZRo6HEH0UU7_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 90000,
+            "default_price_max": 90000,
+            "sale_price_min": 90000,
+            "sale_price_max": 90000,
+            "sale_percent": 0,
+            "sold": 2,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876125,
+            "sku_user": "áo thun nam nữ",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876125,
+                "name": "Thư Võ Shop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Tiền Giang",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40757070,
+            "name": "QUẦN SHORT KAKI THUN",
+            "category_path": "quan-short-kaki-thun-40757070.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_29/jqo7f3bch6nGXPJKrAi1_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 135000,
+            "default_price_max": 135000,
+            "sale_price_min": 135000,
+            "sale_price_max": 135000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 875576,
+            "sku_user": "112",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 875576,
+                "name": "KAIZU SHOP",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 31345958,
+            "name": "Hộp 5 Quần lót nam VAZCO thun cotton họa tiết độc lạ",
+            "category_path": "hop-5-quan-lot-nam-vazco-thun-cotton-hoa-tiet-doc-la-31345958.html",
+            "image": "https://media3.scdn.vn/img4/2020/07_07/VFms5fRDsjzE1TppM27U_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 295000,
+            "default_price_max": 295000,
+            "sale_price_min": 295000,
+            "sale_price_max": 295000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 5,
+            "seller_admin_id": 807111,
+            "sku_user": "5QL5",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 807111,
+                "name": "VAZSTORE",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40853691,
+            "name": "áo thun năm trẻ trung cá tính",
+            "category_path": "ao-thun-nam-tre-trung-ca-tinh-40853691.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_31/MehjBzCKV5pIWUKccVq3_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 109000,
+            "default_price_max": 109000,
+            "sale_price_min": 109000,
+            "sale_price_max": 109000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876321,
+            "sku_user": "001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876321,
+                "name": "Khang Bé",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Bình Dương",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40796266,
+            "name": "áo sơ Mi Nam tay dài kẻ sọc thời trang cấp",
+            "category_path": "ao-so-mi-nam-tay-dai-ke-soc-thoi-trang-cap-40796266.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_30/7H0GJT7XZn3oXK1K0Y6g_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 90000,
+            "default_price_max": 90000,
+            "sale_price_min": 90000,
+            "sale_price_max": 90000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 876083,
+            "sku_user": "001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 876083,
+                "name": "hoaishop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Lào Cai",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40695190,
+            "name": "Quần sort jean nam thêu cao cấp",
+            "category_path": "quan-sort-jean-nam-theu-cao-cap-40695190.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_28/ZJJSBJLJjYQyfH4TthVG_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 139000,
+            "default_price_max": 139000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 875664,
+            "sku_user": "TCSSortJean",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 875664,
+                "name": "Sơn Đăng Houser",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": true,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 4455993,
+            "name": "Áo khoác nam outdoor waterproof jacket",
+            "category_path": "ao-khoac-nam-outdoor-waterproof-jacket-4455993.html",
+            "image": "https://media3.scdn.vn/img2/2016/11_23/Ux7tHS_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 650000,
+            "default_price_max": 650000,
+            "sale_price_min": 650000,
+            "sale_price_max": 650000,
+            "sale_percent": 0,
+            "sold": 113,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 48926,
+            "sku_user": "KN01",
+            "product_type": 0,
+            "like_counter": 25,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 48926,
+                "name": "dang-cap-plaza",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 23757159,
+            "name": "Áo khoác dù 2 lớp chống nắng, chóng gió, hàng nhập cao cấp",
+            "category_path": "ao-khoac-du-2-lop-chong-nang-chong-gio-hang-nhap-cao-cap-23757159.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_18/A9XcMi_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 300000,
+            "default_price_max": 300000,
+            "sale_price_min": 300000,
+            "sale_price_max": 300000,
+            "sale_percent": 0,
+            "sold": 1,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 48926,
+            "sku_user": "KN901",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 48926,
+                "name": "dang-cap-plaza",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 23757506,
+            "name": "Áo khoác nam thiết kế trẻ trung áo phao chần bông",
+            "category_path": "ao-khoac-nam-thiet-ke-tre-trung-ao-phao-chan-bong-23757506.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_18/eUrHgg_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 540000,
+            "default_price_max": 540000,
+            "sale_price_min": 540000,
+            "sale_price_max": 540000,
+            "sale_percent": 0,
+            "sold": 8,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 48926,
+            "sku_user": "KN902",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 48926,
+                "name": "dang-cap-plaza",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 23757749,
+            "name": "Áo khoác dù siêu nhẹ dành cho nam",
+            "category_path": "ao-khoac-du-sieu-nhe-danh-cho-nam-23757749.html",
+            "image": "https://media3.scdn.vn/img3/2019/11_18/1O3fq4_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 245000,
+            "default_price_max": 245000,
+            "sale_price_min": 245000,
+            "sale_price_max": 245000,
+            "sale_percent": 0,
+            "sold": 4,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 48926,
+            "sku_user": "KN905",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 48926,
+                "name": "dang-cap-plaza",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "HN",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 37656172,
+            "name": "Quần bơi Nam - Quân bơi tam giác sexy",
+            "category_path": "quan-boi-nam-quan-boi-tam-giac-sexy-37656172.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_24/l3SSvJUO67D2yWgfSwWn_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 853760,
+            "sku_user": "QBTGN",
+            "product_type": 0,
+            "like_counter": 30,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 853760,
+                "name": "Bách Hóa Số 1",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Thanh Hóa",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": true,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 37650947,
+            "name": "Quần áo gió thể thao nam - Quần áo gió thu đông",
+            "category_path": "quan-ao-gio-the-thao-nam-quan-ao-gio-thu-dong-37650947.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_24/VF0BGXNKye43YBFNn60p_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 650000,
+            "default_price_max": 650000,
+            "sale_price_min": 350000,
+            "sale_price_max": 350000,
+            "sale_percent": 46,
+            "sold": 33,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 853760,
+            "sku_user": "QATTN",
+            "product_type": 0,
+            "like_counter": 55,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 853760,
+                "name": "Bách Hóa Số 1",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Thanh Hóa",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 4,
+                "star": 5
+            },
+            "options": {
+                "is_installment": true,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 40681897,
+            "name": "Áo sơ mi họa tiết Hawaii unisex",
+            "category_path": "ao-so-mi-hoa-tiet-hawaii-unisex-40681897.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_27/9BtmFWIJ7FoJC4hPMGEG_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 180000,
+            "sale_price_max": 180000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": true,
+            "discount_app": 0,
+            "seller_admin_id": 867831,
+            "sku_user": "SMHT",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 867831,
+                "name": "Thùng vintage",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 39027286,
+            "name": "Áo Khoác Dù Nam  In Hoạ Tiết",
+            "category_path": "ao-khoac-du-nam-in-hoa-tiet-39027286.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_29/uXo023mdjjT47ZoTosek_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 119000,
+            "default_price_max": 119000,
+            "sale_price_min": 119000,
+            "sale_price_max": 119000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 866612,
+            "sku_user": "TP002",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 866612,
+                "name": "Kỳ Lân Fashion",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 30389584,
+            "name": "Quần sọt nam",
+            "category_path": "quan-sot-nam-30389584.html",
+            "image": "https://media3.scdn.vn/img4/2020/06_05/2P5KlJ4KaaXGoFu0Y4KN_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 163302,
+            "default_price_max": 163302,
+            "sale_price_min": 89000,
+            "sale_price_max": 89000,
+            "sale_percent": 45,
+            "sold": 432,
+            "has_video": true,
+            "discount_app": 0,
+            "seller_admin_id": 675324,
+            "sku_user": "QN111.3",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 675324,
+                "name": "Đẹp Shop Sỉ Lẻ Thời Trang",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 5,
+                "type": 1,
+                "ware_house_region_name": "Phú Thọ",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/sz2SGWJWxPBdwfsXoFFY.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 92,
+                "star": 4.57608699798584
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 31788363,
+            "name": "Quần đũi dài nam cao cấp",
+            "category_path": "quan-dui-dai-nam-cao-cap-31788363.html",
+            "image": "https://media3.scdn.vn/img4/2020/07_16/vheI7027FGfncpyAWdJt_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 163302,
+            "default_price_max": 163302,
+            "sale_price_min": 79000,
+            "sale_price_max": 79000,
+            "sale_percent": 52,
+            "sold": 60,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 675324,
+            "sku_user": "QN112.3",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "daily_sale",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 675324,
+                "name": "Đẹp Shop Sỉ Lẻ Thời Trang",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 5,
+                "type": 1,
+                "ware_house_region_name": "Phú Thọ",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/sz2SGWJWxPBdwfsXoFFY.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 16,
+                "star": 4.875
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": true,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 31163766,
+            "name": "Quần dài nam",
+            "category_path": "quan-dai-nam-31163766.html",
+            "image": "https://media3.scdn.vn/img4/2020/06_28/Tz5ismCE9BUdkSr6uCT6_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 163302,
+            "default_price_max": 163302,
+            "sale_price_min": 99000,
+            "sale_price_max": 99000,
+            "sale_percent": 39,
+            "sold": 60,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 675324,
+            "sku_user": "QN 112",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 675324,
+                "name": "Đẹp Shop Sỉ Lẻ Thời Trang",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 5,
+                "type": 1,
+                "ware_house_region_name": "Phú Thọ",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/sz2SGWJWxPBdwfsXoFFY.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 13,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": true,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 34694424,
+            "name": "Quần sịp đùi nam thông hơi",
+            "category_path": "quan-sip-dui-nam-thong-hoi-34694424.html",
+            "image": "https://media3.scdn.vn/img4/2020/10_05/Y31MT5yvAQu8OFWAx42u_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 163000,
+            "default_price_max": 163000,
+            "sale_price_min": 69000,
+            "sale_price_max": 69000,
+            "sale_percent": 58,
+            "sold": 3,
+            "has_video": true,
+            "discount_app": 0,
+            "seller_admin_id": 675324,
+            "sku_user": "SN102 1",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "daily_sale",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 675324,
+                "name": "Đẹp Shop Sỉ Lẻ Thời Trang",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 5,
+                "type": 1,
+                "ware_house_region_name": "Phú Thọ",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/sz2SGWJWxPBdwfsXoFFY.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": true,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 35203333,
+            "name": "Quần lót boxer nam",
+            "category_path": "quan-lot-boxer-nam-35203333.html",
+            "image": "https://media3.scdn.vn/img4/2020/10_11/k6eEvjTFvvWQTy7u2Aio_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 163000,
+            "default_price_max": 163000,
+            "sale_price_min": 99000,
+            "sale_price_max": 99000,
+            "sale_percent": 39,
+            "sold": 87,
+            "has_video": true,
+            "discount_app": 0,
+            "seller_admin_id": 675324,
+            "sku_user": "SN102 2",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 675324,
+                "name": "Đẹp Shop Sỉ Lẻ Thời Trang",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 5,
+                "type": 1,
+                "ware_house_region_name": "Phú Thọ",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/sz2SGWJWxPBdwfsXoFFY.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 14,
+                "star": 4.857142925262451
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": true,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 35215786,
+            "name": "Quần lót tam giác nam",
+            "category_path": "quan-lot-tam-giac-nam-35215786.html",
+            "image": "https://media3.scdn.vn/img4/2020/10_12/hDgP0bwtpmZ8hJk8zZqB_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 144954,
+            "default_price_max": 144954,
+            "sale_price_min": 89000,
+            "sale_price_max": 89000,
+            "sale_percent": 38,
+            "sold": 20,
+            "has_video": true,
+            "discount_app": 0,
+            "seller_admin_id": 675324,
+            "sku_user": "SN101 1",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 675324,
+                "name": "Đẹp Shop Sỉ Lẻ Thời Trang",
+                "is_certified": true,
+                "branch_type": 0,
+                "status": 2,
+                "level": 5,
+                "type": 1,
+                "ware_house_region_name": "Phú Thọ",
+                "badge_urls": {
+                    "shop_level": "https://media3.scdn.vn/img4/2020/08_11/sz2SGWJWxPBdwfsXoFFY.png",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": true,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 40642011,
+            "name": "Áo thun trơn cổ bẻ – Áo thun trơn cổ bẻ giá rẻ – Áo thun trơn có cổ – Áo thun trơn có cổ giá rẻ – Áo thun trơn FULL ĐEN không hình phù hợp cho cả NAM \\u0026 NỮ",
+            "category_path": "ao-thun-tron-co-be-ao-thun-tron-co-be-gia-re-ao-thun-tron-co-co-ao-thun-tron-co-co-gia-re-ao-thun-tron-full-den-khong-hinh-phu-hop-cho-ca-nam-nu-40642011.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_26/qboaxEJB2w6TLtsMbqbP_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 60000,
+            "default_price_max": 60000,
+            "sale_price_min": 60000,
+            "sale_price_max": 60000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 615364,
+            "sku_user": "001",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 615364,
+                "name": "Yomost Yo",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 37889288,
+            "name": "Quần Dài Kaki Nam",
+            "category_path": "quan-dai-kaki-nam-37889288.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_16/ze14eH6Z7yFGtgIt87t9_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 199000,
+            "default_price_max": 199000,
+            "sale_price_min": 199000,
+            "sale_price_max": 199000,
+            "sale_percent": 0,
+            "sold": 381,
+            "has_video": true,
+            "discount_app": 2,
+            "seller_admin_id": 675043,
+            "sku_user": "KAKI DÀI MÃ 39",
+            "product_type": 0,
+            "like_counter": 45,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 675043,
+                "name": "quangnguyenshop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 98,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 117,
+                "star": 4.794871807098389
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 40290809,
+            "name": "Áo Sơ Mi Dài Tay",
+            "category_path": "ao-so-mi-dai-tay-40290809.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_21/in71Z3vTZszIEQSK3L64_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 139000,
+            "default_price_max": 139000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "sale_percent": 0,
+            "sold": 127,
+            "has_video": true,
+            "discount_app": 2,
+            "seller_admin_id": 675043,
+            "sku_user": "TRẮNG 4 MẪU",
+            "product_type": 0,
+            "like_counter": 15,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 675043,
+                "name": "quangnguyenshop",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 98,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 28,
+                "star": 4.857142925262451
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 40280456,
+            "name": "ÁO THUN PHẢN QUANG - MẶT BÁO APQ74",
+            "category_path": "ao-thun-phan-quang-mat-bao-apq74-40280456.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_21/ctfWX2M6ku10UimwRRgs_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 159000,
+            "sale_price_max": 159000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 873772,
+            "sku_user": "4173224246",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 873772,
+                "name": "UNISEX NỮ NAM",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 37674989,
+            "name": "Quần áo thể thao nam - Quần áo đá bóng",
+            "category_path": "quan-ao-the-thao-nam-quan-ao-da-bong-37674989.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_24/Z3z3YZE8wasIYMwnZBFl_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 165000,
+            "default_price_max": 165000,
+            "sale_price_min": 165000,
+            "sale_price_max": 165000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 853760,
+            "sku_user": "QABD",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 853760,
+                "name": "Bách Hóa Số 1",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Thanh Hóa",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": true,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 40280072,
+            "name": "Áo khoác hoodie Nam Nữ PHỐI MÀU TEBIE CỰC CHẤT AKN22",
+            "category_path": "ao-khoac-hoodie-nam-nu-phoi-mau-tebie-cuc-chat-akn22-40280072.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_21/4Kl3IMQfpycvjwrJrh4O_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 158000,
+            "default_price_max": 158000,
+            "sale_price_min": 158000,
+            "sale_price_max": 158000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 873772,
+            "sku_user": "7672714247",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 873772,
+                "name": "UNISEX NỮ NAM",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 33386854,
+            "name": "[FREESHIP] ÁO THUN NAM CỔ BẺ THÊU LOGO HOA LÚA NHỎ CỰC CHẤT - HEMSHOP",
+            "category_path": "freeship-ao-thun-nam-co-be-theu-logo-hoa-lua-nho-cuc-chat-hemshop-33386854.html",
+            "image": "https://media3.scdn.vn/img4/2020/09_10/IJtgKfq3KicCdZBCgZDu_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 150000,
+            "sale_price_max": 150000,
+            "sale_percent": 0,
+            "sold": 11,
+            "has_video": false,
+            "discount_app": 2,
+            "seller_admin_id": 817829,
+            "sku_user": "CS79",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 817829,
+                "name": "HEMSHOP",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 33391263,
+            "name": "[TREND 2020] ÁO THUN NAM CỔ BẺ VẢI XƯỚC CỰC MỚI LẠ - HÀNG CHUẨN SHOP - HEMSHOP",
+            "category_path": "trend-2020-ao-thun-nam-co-be-vai-xuoc-cuc-moi-la-hang-chuan-shop-hemshop-33391263.html",
+            "image": "https://media3.scdn.vn/img4/2020/09_10/nkVfQG1Bc2ELNkasam1I_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "sale_percent": 44,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 2,
+            "seller_admin_id": 817829,
+            "sku_user": "CS192",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 817829,
+                "name": "HEMSHOP",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 33424802,
+            "name": "[DÀY DẶN] ÁO THUN NAM CỔ BẺ THÊU ĐẦU THỔ DÂN CỰC CHẤT - FORM BODY CỰC CHẤT - HEMSHOP",
+            "category_path": "day-dan-ao-thun-nam-co-be-theu-dau-tho-dan-cuc-chat-form-body-cuc-chat-hemshop-33424802.html",
+            "image": "https://media3.scdn.vn/img4/2020/09_11/okObO12mzKvVVGED9sTO_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 89000,
+            "sale_price_max": 89000,
+            "sale_percent": 40,
+            "sold": 1,
+            "has_video": false,
+            "discount_app": 2,
+            "seller_admin_id": 817829,
+            "sku_user": "CS25",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 817829,
+                "name": "HEMSHOP",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 38550716,
+            "name": "[TREND 2020] ÁO THUN  CỔTRÒN XUẤT DÀY DẶN - XỊN SÒ - HEMSHOP",
+            "category_path": "trend-2020-ao-thun-cotron-xuat-day-dan-xin-so-hemshop-38550716.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_20/YIoM3Vso2bcZzrp3VbXw_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 159000,
+            "default_price_max": 159000,
+            "sale_price_min": 139000,
+            "sale_price_max": 139000,
+            "sale_percent": 12,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 2,
+            "seller_admin_id": 817829,
+            "sku_user": "CT 955",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 817829,
+                "name": "HEMSHOP",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 33191893,
+            "name": "Áo khoác dù nam dấu nón 2 lớp lót nỉ sành cao cấp SITAKI- AKD38",
+            "category_path": "a-o-khoa-c-du-nam-da-u-no-n-2-lo-p-lo-t-ni-sa-nh-cao-ca-p-sitaki-akd38-33191893.html",
+            "image": "https://media3.scdn.vn/img4/2020/09_04/xMr8R90CnLYLH9A5khPT_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 250000,
+            "default_price_max": 250000,
+            "sale_price_min": 250000,
+            "sale_price_max": 250000,
+            "sale_percent": 0,
+            "sold": 17,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 489736,
+            "sku_user": "AKD38",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 489736,
+                "name": "SUSU2801",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 4
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40300337,
+            "name": "Áo Khoác phao",
+            "category_path": "ao-khoac-phao-40300337.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_22/Z7mt1BtG4Yeq35EGJ8uh_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 750000,
+            "default_price_max": 750000,
+            "sale_price_min": 750000,
+            "sale_price_max": 750000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 874239,
+            "sku_user": "K556B",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 874239,
+                "name": "FTTV",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Hải Dương",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 38770740,
+            "name": "khoác dù thêu ngọn núi",
+            "category_path": "khoac-du-theu-ngon-nui-38770740.html",
+            "image": "https://media3.scdn.vn/img4/2020/12_24/NolL04g7sqpX9vQn7yTY_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 205000,
+            "default_price_max": 205000,
+            "sale_price_min": 205000,
+            "sale_price_max": 205000,
+            "sale_percent": 0,
+            "sold": 3,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 75773,
+            "sku_user": "KK_57",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 75773,
+                "name": "SIMSIMI",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        },
+        {
+            "id": 40211057,
+            "name": "Áo  khoác  nam thoi trang unisex ,giúp  thoải  mái  thể  hiện  tínhư cách  ,trẻ  trung ,năng  động",
+            "category_path": "a-o-khoa-c-nam-thoi-trang-unisex-giu-p-thoa-i-ma-i-the-hie-n-ti-nhu-ca-ch-tre-trung-nang-do-ng-40211057.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_19/9ayEPuxPUqSvq36eygx6_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 119000,
+            "default_price_max": 130000,
+            "sale_price_min": 119000,
+            "sale_price_max": 130000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 873558,
+            "sku_user": "hD012",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 873558,
+                "name": "th98",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 40208646,
+            "name": "Áo Thun Marval 100% Cotton Vải Dày Xịn - Hàng Việt Nam Xuất Khẩu",
+            "category_path": "ao-thun-marval-100-cotton-vai-day-xin-hang-viet-nam-xuat-khau-40208646.html",
+            "image": "https://media3.scdn.vn/img4/2021/01_19/A4w9R5cbr7lR2mxzQKgn_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 150000,
+            "default_price_max": 150000,
+            "sale_price_min": 150000,
+            "sale_price_max": 150000,
+            "sale_percent": 0,
+            "sold": 0,
+            "has_video": false,
+            "discount_app": 0,
+            "seller_admin_id": 870866,
+            "sku_user": "Marval",
+            "product_type": 0,
+            "like_counter": 0,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 870866,
+                "name": "KT STOREE",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Đắk Nông",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 0,
+                "star": 0
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": false,
+                "is_instant_shipping": false,
+                "is_pay_later": false
+            }
+        },
+        {
+            "id": 32483075,
+            "name": "Áo Thun Cổ Bẻ Unisex Cao Cấp Vải Poly Cá Sấu Logo Xe",
+            "category_path": "ao-thun-co-be-unisex-cao-cap-vai-poly-ca-sau-logo-xe-32483075.html",
+            "image": "https://media3.scdn.vn/img4/2020/08_16/gs6HGaI5vVkVN5c7atzy_simg_de2fe0_250x250_maxb.jpg",
+            "is_event_frame": false,
+            "default_price_min": 180000,
+            "default_price_max": 180000,
+            "sale_price_min": 99000,
+            "sale_price_max": 99000,
+            "sale_percent": 45,
+            "sold": 372,
+            "has_video": true,
+            "discount_app": 2,
+            "seller_admin_id": 325920,
+            "sku_user": "cổ bẻ cao cấp",
+            "product_type": 0,
+            "like_counter": 950,
+            "active_event_frame": "",
+            "status_new": 2,
+            "stock_status": 1,
+            "shop": {
+                "id": 325920,
+                "name": "chinxu",
+                "is_certified": false,
+                "branch_type": 0,
+                "status": 2,
+                "level": 0,
+                "type": 0,
+                "ware_house_region_name": "Đồng Nai",
+                "badge_urls": {
+                    "shop_level": "",
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png",
+                    "shop_type": ""
+                }
+            },
+            "rated": {
+                "total": 113,
+                "star": 4.840707778930664
+            },
+            "options": {
+                "is_installment": false,
+                "is_combo_discount": false,
+                "is_quantity_discount": false,
+                "is_shipping_discount": true,
+                "is_instant_shipping": false,
+                "is_pay_later": true
+            }
+        }
+    ],
+    "data_debug": null,
+    "meta_data": {
+        "source_info": {
+            "source_block_id": "listing_products",
+            "source_page_id": "cate1_vasup_desc"
+        },
+        "experiment_id": -5,
+        "special_res": 0,
+        "total_count": 383930,
+        "count_from_es": 0,
+        "total_page": 6399,
+        "belong_tab": "vasup_desc",
+        "current_page": 2,
+        "request_id": "6eb1c797-101f-4729-a771-358873d0ab89",
+        "ranking_random_values": null,
+        "source_data": "ES",
+        "message": {
+            "not_found": "",
+            "found": ""
+        },
+        "corrected_query": "",
+        "origin_query": ""
+    },
+    "async_data": {
+        "products": {}
+    }
+}
